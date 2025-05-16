@@ -22,5 +22,5 @@ King Medical Store is a local medical store platform that allows users to explor
 
 # Tech Stack
 - Frontend: HTML5, CSS3, JavaScript  
-- Backend: Store Information In Excel sheet   
+- Backend: Store Information In Google sheet   
   
